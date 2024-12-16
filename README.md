@@ -45,6 +45,9 @@ I'm currently learning [New Technologies or Skills].
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js" width="55" height="55" />
     </td>
+      <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="55" height="55" />
+    </td>
   </tr>
   <tr height="80">
     <td align="center" width="90">
@@ -65,12 +68,7 @@ I'm currently learning [New Technologies or Skills].
     <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" title="WordPress" alt="WordPress" width="55" height="55" />
     </td>
-  </tr>
-  <tr height="80">
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="RESTful API" alt="RESTful API" width="55" height="55" />
     </td>
     <td align="center" width="90">
