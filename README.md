@@ -74,11 +74,11 @@ I'm currently learning [New Technologies or Skills].
     <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" title="Ruby" alt="Ruby" width="45" height="45" />
     </td>
-  </tr>
-  <tr height="80">
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
     </td>
+  </tr>
+  <tr height="80">
     <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" title="Flutter" alt="Flutter" width="45" height="45" />
     </td>
