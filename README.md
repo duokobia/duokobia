@@ -8,7 +8,7 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 - Databases: MongoDB, MySQL
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?duokobia=duokobia&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🌱 Current Learning
 I'm currently learning [New Technologies or Skills].
