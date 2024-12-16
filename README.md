@@ -32,6 +32,9 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 
 <img src="https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 
+<!-- GitHub Contribution Snake -->
+![Snake animation](https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌱 Current Learning
 I'm currently learning [New Technologies or Skills].
 
