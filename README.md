@@ -25,6 +25,13 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duokobia&theme=radical&cache_seconds=1800)
 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duokobia&theme=monokai)
+
+
+[Check out my GitHub Skyline](https://skyline.github.com/duokobia/2024)
+
+<img src="https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
+
 ## 🌱 Current Learning
 I'm currently learning [New Technologies or Skills].
 
