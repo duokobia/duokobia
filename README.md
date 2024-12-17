@@ -1,10 +1,10 @@
 # Hi there, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"> 
 
-I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, NodeJs, ExpressJS, GraphQL, Golang, etc. I love working on projects related to [Your Interests].
+I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, NodeJs, ExpressJS, GraphQL, Golang, etc. I love working on enterprise scale projects.
 
 ## 🔧 Technologies & Tools
 - Languages: JavaScript, TypeScript, Dart,
-- Frameworks: React, NextJS, Svelekit, VueJS, Flutter Dart, Node.js, Go.
+- Frameworks: React, NextJS, Sveltekit, VueJS, Flutter Dart, Node.js, Go.
 - Databases: MongoDB, MySQL
 
 ## 📈 GitHub Stats
@@ -24,10 +24,10 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 ![Snake animation](https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌱 Current Learning
-I'm currently learning [New Technologies or Skills].
+I'm currently learning postgresql.
 
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Designing;I%20Enjoy%20Coding;Front-End%20Engineering;Back-End%20Engineering;Professional%20Teamwork%20Experience;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
+![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Designing;I%20Enjoy%20Coding;Front-End%20Engineering;Back-End%20Engineering;Professional%20Collaborations;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
 # <img src="working.gif" width="45" />My Stack
 
