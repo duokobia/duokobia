@@ -9,28 +9,16 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duokobia&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duokobia&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)
 
 ## 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duokobia&layout=compact&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duokobia&layout=compact&theme=radical&count_private=true&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duokobia&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duokobia&theme=radical&cache_seconds=1800)
-
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duokobia&theme=monokai)
 
-
-[Check out my GitHub Skyline](https://skyline.github.com/duokobia/2024)
-
-<img src="https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 
 <!-- GitHub Contribution Snake -->
 ![Snake animation](https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg)
