@@ -20,8 +20,11 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duokobia&theme=monokai)
 
 
-<!-- GitHub Contribution Snake -->
-![Snake animation](https://github.com/duokobia/duokobia/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/b/count.svg?"  />
+</div>
 
 ## 🌱 Current Learning
 I'm currently learning postgresql.
