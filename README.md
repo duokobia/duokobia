@@ -3,9 +3,9 @@
 I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, NodeJs, ExpressJS, GraphQL, Golang, etc. I love working on enterprise scale projects.
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, TypeScript, Dart,
-- Frameworks: React, NextJS, Sveltekit, VueJS, Flutter Dart, Node.js, Go.
-- Databases: MongoDB, MySQL
+- Languages: JavaScript, TypeScript, Dart, Go, RUST.
+- Frameworks: ReactJS, NextJS, Sveltekit, VueJS, Flutter Dart, Node.js, ExpressJS, gofibre(Go), Actix-web(RUST).
+- Databases: MongoDB, MySQL, PostgreSQL, CockroachDB.
 
 ## 📈 GitHub Stats
 
@@ -27,7 +27,7 @@ I'm a full stack developer with experience in ReactJs, NextJs, Svelekit, VueJS, 
 </div>
 
 ## 🌱 Current Learning
-I'm currently learning postgresql.
+I'm currently learning to use RUST to build HTTP servers.
 
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Designing;I%20Enjoy%20Coding;Front-End%20Engineering;Back-End%20Engineering;Professional%20Collaborations;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
